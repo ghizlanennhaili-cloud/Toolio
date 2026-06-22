@@ -1,5 +1,5 @@
 "use client"; // Indispensable pour vos anciens fichiers React
-import Dashboard from './components/Dashboard';
+import Dashboard from '../components/Dashboard';
 
 export default function Home() {
   return (
